@@ -1,4 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Site is deployed using netlify :
+Preview : https://sad-leakey-606663.netlify.app/
 
 ## Available Scripts
 
